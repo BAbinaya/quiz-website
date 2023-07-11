@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../website layout"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Blackboard"
+	}
+}
